@@ -7,9 +7,12 @@ body {
 }
 
 i {
-    margin-left: 20px;
     font-size: 25px;
     color: #563d7c;
+}
+
+.fa-buromobelexperte {
+    margin-left: 10px;
 }
 
 .avatar:hover {
