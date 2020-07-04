@@ -12,10 +12,6 @@ i {
     color: #563d7c;
 }
 
-.avatar-disable {
-    color: black;
-}
-
 .avatar:hover {
     text-shadow: 0 0 5px #563d7c;
 }
