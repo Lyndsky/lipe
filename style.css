@@ -1,0 +1,21 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.table thead th {
+    border-bottom: 2px solid #563d7c;
+}
+
+i {
+    margin-left: 20px;
+    font-size: 25px;
+    color: #563d7c;
+}
+
+.avatar-disable {
+    color: black;
+}
+
+.avatar:hover {
+    text-shadow: 0 0 5px #563d7c;
+}

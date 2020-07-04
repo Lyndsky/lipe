@@ -1,0 +1,11 @@
+1 - Criar os arquivos bases X
+2 - Criar somente a tag da tabela no HTML X
+3 - Importar bootstrap e os icones X
+3.1 - Estilizar a tabela, os icones e os campos X
+4 - Consumir API 
+5 - Organizar e gerar os campos da tabela de acordo com os dados da API
+6 - Criar as condições dos icones
+7 - Finalizar o projeto
+
+
+Tempo gasto: 3hrs 10min
