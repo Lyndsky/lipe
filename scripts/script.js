@@ -9,7 +9,6 @@ function dado() {
             const createTextTh = document.createTextNode(i + 1);
             createTh.appendChild(createTextTh);
             createTr.appendChild(createTh);
-            getTbody.appendChild(createTr);
 
             for(let j = 1; j < 6; j++) {
                 const createTd = document.createElement("td");
