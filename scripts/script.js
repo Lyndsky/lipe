@@ -4,12 +4,7 @@ function dado() {
         for (let i = 0; i < dadosData.length; i++) {
             const getTbody = document.querySelector("tbody");
             const createTr = document.createElement("tr");
-            const createTh = document.createElement("th");
-            createTh.setAttribute("scope", "row");
-            const createTextTh = document.createTextNode(i + 1);
-            createTh.appendChild(createTextTh);
-            createTr.appendChild(createTh);
-
+            
             for(let j = 1; j < 6; j++) {
                 const createTd = document.createElement("td");
                 const createTextTd = document.createTextNode("");
