@@ -20,8 +20,7 @@ function dado() {
                     createTextTd.textContent = allDados.last_name;
                 } else {
                     const createLink = document.createElement("a");
-                    createLink.style.transition = "0.3s ease-in";
-
+  
                     const createIcon = document.createElement("i");
                     createIcon.setAttribute("class", "fab fa-buromobelexperte");
 
@@ -36,7 +35,6 @@ function dado() {
                         const createIcon = document.createElement("i");
                         createIcon.setAttribute("class", "fab fa-apple");
 
-                        createIcon.style.fontSize = "30px";
                         createTd.appendChild(createIcon);
                     }
 

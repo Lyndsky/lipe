@@ -7,8 +7,13 @@ i {
     margin-left: 10px;
 }
 
+.fa-apple {
+    font-size: 30px;
+}
+
 a {
     color: black!important;
+    transition: 0.3s ease-in;
 }
 
 a:not([href]) {
