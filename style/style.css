@@ -4,6 +4,7 @@ body {
 
 i {
     font-size: 25px;
+    margin-left: 10px;
 }
 
 a {
@@ -12,10 +13,6 @@ a {
 
 a:not([href]) {
     color: rgba(0, 0, 0, .5)!important;
-}
-
-.fa-buromobelexperte {
-    margin-left: 10px;
 }
 
 .avatar:hover {
