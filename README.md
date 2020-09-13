@@ -1,3 +1,3 @@
-# lipe
+# Consumo de uma API mostrando as informações em uma tabela
 
-https://lyndsky.github.io/lipe/
+https://marcosdoriguetto.github.io/api-table/
